@@ -170,3 +170,4 @@ zstandard==0.23.0
 chromadb[full]
 pysqlite3-binary
 sqlite3 >= 3.35.0
+databricks-sdk
